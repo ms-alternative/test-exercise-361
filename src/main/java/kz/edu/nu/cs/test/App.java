@@ -31,6 +31,6 @@ public class App {
     }
     
     public static int testMethod() {
-        return 1;
+        return 9;
     }
 }
